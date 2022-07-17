@@ -20,7 +20,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ### Languages and Tools:
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -50,8 +50,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: {YOUR_INFO_HERE}
-- Browser: Brave Browser
+- Browser: Google Chrome
 - Code Editor: VSCode - The best editor out there
 - Stay Updated: [Discord](https://xolify.store/discord)
 
