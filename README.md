@@ -46,9 +46,9 @@
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
-- Browser: Google Chrome
-- Code Editor: VSCode - The best editor out there
+- OS: Macbook Air M2
+- Browser: Arc
+- Code Editor: VIM - (Don't ask 😭)
 - Stay Updated: [Discord](https://xolify.store/discord)
 
 ---
